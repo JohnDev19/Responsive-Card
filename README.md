@@ -8,7 +8,7 @@ A responsive card layout with hover effects. Each card showcases an image and re
 
 ## Live Demo
 
-Check out the live demo [here](link/to/live/demo).
+Check out the live demo [here](https://johndev19.github.io/Responsive-Card/).
 
 ## Technologies Used
 
@@ -33,7 +33,7 @@ Check out the live demo [here](link/to/live/demo).
 
 ## How to Contribute
 
-We welcome contributions! If you'd like to contribute to this project, follow these steps:
+I welcome contributions! If you'd like to contribute to this project, follow these steps:
 
 1. Fork the project.
 2. Create a new branch: `git checkout -b feature/your-feature-name`.
