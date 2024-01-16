@@ -4,7 +4,7 @@ A responsive card layout with hover effects. Each card showcases an image and re
 
 ## Preview
 
-![Animated Card Preview](path/to/preview-image.png)
+![Animated Card Preview](IMG_20240116_184406.jpg)
 
 ## Live Demo
 
